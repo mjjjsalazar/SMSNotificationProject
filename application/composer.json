@@ -1,0 +1,15 @@
+{
+    "name": "mjsalazar/jobrequisition",
+    "description": "Job Requisition",
+    "type": "project",
+    "license": "GPL 3.o",
+    "authors": [
+        {
+            "name": "mjsalazar",
+            "email": "mjsalazar@gmail.com"
+        }
+    ],
+    "require": {
+        "nexmo/client": "^1.3"
+    }
+}
